@@ -1,0 +1,12 @@
+.img1{
+	margin: 0 14rem;
+	border-radius: 2rem;
+
+}
+@media screen and (max-width: 992 px){
+	.img1{
+		margin: 0 0;
+
+
+	}
+}
