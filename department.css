@@ -80,7 +80,7 @@
   }
   input:checked[type='checkbox']:before{
 	content: '';
-	background: orange;
+	background: orangered;
 	transform: translateX(2rem);
   }
   
